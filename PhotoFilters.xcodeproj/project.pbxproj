@@ -13,6 +13,8 @@
 		5BE96C011A001000002B611D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BE96C001A001000002B611D /* Images.xcassets */; };
 		5BE96C041A001000002B611D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BE96C021A001000002B611D /* LaunchScreen.xib */; };
 		5BE96C101A001000002B611D /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BE96C0F1A001000002B611D /* PhotoFiltersTests.swift */; };
+		5BE96C1A1A001071002B611D /* Screen Shot 2014-10-26 at 4.30.58 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BE96C191A001071002B611D /* Screen Shot 2014-10-26 at 4.30.58 PM.png */; };
+		5BE96C1C1A001152002B611D /* 2011-12-23 12.46.24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE96C1B1A001152002B611D /* 2011-12-23 12.46.24.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		5BE96C091A001000002B611D /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BE96C0E1A001000002B611D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BE96C0F1A001000002B611D /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		5BE96C191A001071002B611D /* Screen Shot 2014-10-26 at 4.30.58 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2014-10-26 at 4.30.58 PM.png"; path = "../../../Desktop/Screen Shot 2014-10-26 at 4.30.58 PM.png"; sourceTree = "<group>"; };
+		5BE96C1B1A001152002B611D /* 2011-12-23 12.46.24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "2011-12-23 12.46.24.jpg"; path = "../../../Pictures/iPhoto Library.photolibrary/Masters/2014/09/17/20140917-083937/2011-12-23 12.46.24.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		5BE96BF61A001000002B611D /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				5BE96C1B1A001152002B611D /* 2011-12-23 12.46.24.jpg */,
+				5BE96C191A001071002B611D /* Screen Shot 2014-10-26 at 4.30.58 PM.png */,
 				5BE96BF91A001000002B611D /* AppDelegate.swift */,
 				5BE96BFB1A001000002B611D /* ViewController.swift */,
 				5BE96BFD1A001000002B611D /* Main.storyboard */,
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BE96C1C1A001152002B611D /* 2011-12-23 12.46.24.jpg in Resources */,
 				5BE96BFF1A001000002B611D /* Main.storyboard in Resources */,
+				5BE96C1A1A001071002B611D /* Screen Shot 2014-10-26 at 4.30.58 PM.png in Resources */,
 				5BE96C041A001000002B611D /* LaunchScreen.xib in Resources */,
 				5BE96C011A001000002B611D /* Images.xcassets in Resources */,
 			);
